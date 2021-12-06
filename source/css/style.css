@@ -1,0 +1,13 @@
+.avatar{
+    width: 200px;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+nav.larger-padding {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+span.name-brand {
+    font-size: large
+}
